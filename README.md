@@ -11,6 +11,6 @@ En este repositorio tambien publicare el archivo "WBSCRPING.ipynb" en el cual hi
 # Dashboard:
 Para mi dashboard decidi divir la informacion en 2 segmentos importantes: El primero fue la poblacion, ya que considero que entender el comportamiento de la poblacion con la coneccion a internet es muy importante. En este ubique en un mapa de calor las provincias con mayor promedio de velocidad de internet. Tambien explique la distribucion porcentual de los tipos de conectividad. Distribui en un mapa de dispersion la velocidad de las localidades, partidos y provincias. Grafique el crecimiento anual del promedio de accesos por cada 100 hogares. En el segundo quise plasmar el tipo de conectivdad en argentina, de esta forma analizar de manera numerica y con un vistaso general el comportamiento como pais. Grafique el crecimiento de ingresos por año y trimestr. Grafique el crecimiento por tipo de conectividad a traves de los años. La cantidad de conecciones por provincia y tipo de conectividad.
 Primer Dashboard
-(https://github.com/paoloen/PI02_Enmanuel_Aldave/blob/main/db1.png)
+![Primer Dashboard](https://github.com/paoloen/PI02_Enmanuel_Aldave/blob/main/db1.png)
 Segundo Dashboard
 https://github.com/paoloen/PI02_Enmanuel_Aldave/blob/main/db2.png
